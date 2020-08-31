@@ -1,2 +1,2 @@
 # Book
-thanks to githun.com for this free ftp server
+thanks to github.com for this free ftp server
